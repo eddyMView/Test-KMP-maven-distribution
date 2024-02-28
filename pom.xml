@@ -6,4 +6,14 @@
   <groupId>com.eddy.kmmplayground</groupId>
   <artifactId>test</artifactId>
   <version>1.0</version>
+  <dependencies>
+    <dependency>
+      <groupId>com.eddy.kmmplayground.featureA</groupId>
+      <artifactId>featureA</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>com.eddy.kmmplayground.featureB</groupId>
+      <artifactId>featureB</artifactId>
+    </dependency>
+  </dependencies>
 </project>
